@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "erp-app",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}
