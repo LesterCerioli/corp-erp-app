@@ -1,0 +1,7 @@
+{
+  "name": "lts-erp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
