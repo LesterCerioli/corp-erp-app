@@ -1,7 +1,0 @@
-{
-  "name": "lts-website",
-  "integrations": {
-    "capacitor": {}
-  },
-  "type": "vue"
-}
